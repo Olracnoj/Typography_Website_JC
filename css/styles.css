@@ -22,7 +22,7 @@ h2 {
     padding: 80px 0;
     background-color:#16231e;
     background-image: url("https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
