@@ -29,4 +29,8 @@ h2 {
     padding: 0 10px;
 }
 
-footer {}
+footer {
+    background-color:#16231e;
+    text-align: center;
+    padding: 20px 0;
+}
