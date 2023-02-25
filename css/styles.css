@@ -23,6 +23,10 @@ h2 {
     background-color:#16231e;
 }
 
-.main-container {}
+.main-container {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
 
 footer {}
