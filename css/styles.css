@@ -45,10 +45,11 @@ footer {
 }
 .article-right{
     flex-direction: row-reverse;
+
 }
 
 .article-left img, .article-right img{
-    width: 50%;
+    width: 40%;
 }
 
 article{
