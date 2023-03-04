@@ -39,3 +39,10 @@ footer {
     padding: 20px 0;
     color:#ffffff
 }
+
+.article-left, .article-right{
+    display: flex;
+}
+.article-right{
+    flex-direction: row-reverse;
+}
